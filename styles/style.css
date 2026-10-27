@@ -169,7 +169,7 @@ button { cursor: pointer; border: 0; background: none; }
   flex-shrink: 0;
 }
 
-/* ========== Main / background ========== */
+/* --------------------Main / background ------------------- */
 .main {
   position: relative;
   flex: 1;
@@ -177,7 +177,7 @@ button { cursor: pointer; border: 0; background: none; }
   padding-block: 40px 56px;
   background:
     linear-gradient(180deg, rgba(4, 6, 15, 0.35), rgba(4, 6, 15, 0.9)),
-    url("../images/bg.png") center / cover no-repeat,
+  
     var(--bg);
 }
 

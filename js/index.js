@@ -130,7 +130,7 @@ guessInput.addEventListener("keydown", (event) => {
 startBtn.addEventListener("click", startNewGame);
 
 howtoBtn.addEventListener("click", () => {
-  showMessage(
+  showMessage( 
     "Pick a difficulty, type a number and press Check. You'll get a hint after every guess."
   );
 });
