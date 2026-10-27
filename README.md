@@ -15,7 +15,14 @@ The interface is a dark, neon-styled design that is fully responsive and built m
 - Keyboard support: press Enter to submit a guess
 - Responsive layout for mobile, tablet, and desktop
 
+
+## Live Demo
+ 
+[ https://ghazal-hassanabadi.github.io/guess-the-number/]
+
+
 ## Difficulty Levels
+
 
 | Level  | Range  | Max guesses |
 | ------ | ------ | ----------- |
@@ -32,8 +39,8 @@ The interface is a dark, neon-styled design that is fully responsive and built m
 
 ## Project Structure
 
-```
-numberguess/
+
+guess-the-number/
 ├── index.html
 ├── styles/
 │   └── style.css
@@ -43,16 +50,7 @@ numberguess/
 │   └── img-bg.png
 └── READEME.md
 
-## Getting Started
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/ghazal-hassanabadi/guess-the-number.git
-   ```
-
-2. Open the project folder.
-3. Open `index.html` in your browser. No build step or dependencies are required.
 
 ## How to Play
 
